@@ -1,0 +1,7 @@
+POST http://localhost:8080/books
+
+{
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "published_date": "1954-07-29"
+}
