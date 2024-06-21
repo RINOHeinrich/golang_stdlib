@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/RINOHeinrich/golang_stdlib/controller"
-	"github.com/RINOHeinrich/golang_stdlib/database"
+	"github.com/RINOHeinrich/multiserviceauth/controller"
+	"github.com/RINOHeinrich/multiserviceauth/database"
 )
 
 func main() {
